@@ -9,20 +9,20 @@
  explaining what this code does.
 */
 
-console.log("Exercise 1 complete!");
+console.log("complete!");
 
 
 // ---------------------------------------
 // 2. Variable Declaration with let
 // ---------------------------------------
 
-let username = "Alice";
+let username = "uwase";
 let userAge = 25;
 
 console.log("Username:", username);
 console.log("Age:", userAge);
 
-console.log("Exercise 2 complete!");
+console.log("step 2 complete!");
 
 
 // ---------------------------------------
@@ -32,7 +32,7 @@ console.log("Exercise 2 complete!");
 const birthYear = 2000;
 console.log("Birth Year:", birthYear);
 
-console.log("Exercise 3 complete!");
+console.log("step 3 complete!");
 
 
 // ---------------------------------------
@@ -47,7 +47,7 @@ console.log("numberValue type:", typeof numberValue);
 console.log("textValue type:", typeof textValue);
 console.log("booleanValue type:", typeof booleanValue);
 
-console.log("Exercise 4 complete!");
+console.log("step 4 complete!");
 
 
 // ---------------------------------------
@@ -61,7 +61,7 @@ let combinedString = city + " " + part;
 
 console.log("Combined String:", combinedString);
 
-console.log("Exercise 5 complete!");
+console.log("step 5 complete!");
 
 
 // ---------------------------------------
@@ -76,7 +76,7 @@ console.log("Subtraction:", x - y);
 console.log("Multiplication:", x * y);
 console.log("Division:", x / y);
 
-console.log("Exercise 6 complete!");
+console.log("step 6 complete!");
 
 
 // ---------------------------------------
@@ -89,7 +89,7 @@ let hasPremium = false;
 console.log("Logged In:", isLoggedIn);
 console.log("Premium User:", hasPremium);
 
-console.log("Exercise 7 complete!");
+console.log("step 7 complete!");
 
 
 // ---------------------------------------
@@ -102,7 +102,7 @@ let emptyValue = null;
 console.log("Undefined value:", uninitializedVar);
 console.log("Null value:", emptyValue);
 
-console.log("Exercise 8 complete!");
+console.log("step 8 complete!");
 
 
 // ---------------------------------------
@@ -112,14 +112,14 @@ console.log("Exercise 8 complete!");
 console.log("typeof undefined:", typeof uninitializedVar);  
 console.log("typeof null:", typeof emptyValue); // JavaScript quirk → "object"
 
-console.log("Exercise 9 complete!");
+console.log("step 9 complete!");
 
 
 // ---------------------------------------
 // 10. console.log() Practice
 // ---------------------------------------
 
-console.log("Hello! This is console.log in action!");
+console.log("Hello! This is uwase jolie!");
 console.log("Everything is working perfectly.");
 
-console.log("Exercise 10 complete!");
+console.log("step 10 complete! congrats jolie.");
